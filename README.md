@@ -1,9 +1,9 @@
 # Vidyayan_Task-1
-INNOVATE
+                                                           INNOVATE
+
 We all are living in the era of 21st century. We have analyzed that the most important factor in the field of business operations is Innovation. As it helps in serving and determining the sustainability of the business operation and the profit-making initiatives. One of the major factors which comes in the sphere of Innovation is Technology. We can see that the technology is upgrading day-by-day in all the fields. Now, we have to understand that what innovate actually is? Innovation refers to the ability which can 
 modify, improve and create a product with an aim to serve or sustain the business operations.
 
-[Innovate.docx](https://github.com/Chiraag100/Vidyayan_Task-1/files/7434995/Innovate.docx)
 
 Importance of Innovation:  
 Till now we have understood the basic meaning of innovate. Now, we will discuss the importance of innovation.
@@ -58,3 +58,4 @@ From the very beginning, the company must keep in mind the possibility of scalin
 The world is changing and not just in adopting new technology, but also in new ways of thinking and doing things. For instance, innovation in a company has always been assumed to be a thing that should originate from the R&D (research and development) department. However, things are changing, and organizations have begun to open their doors with the intention of spurring innovation.   
  
 
+[Innovate.docx](https://github.com/Chiraag100/Vidyayan_Task-1/files/7435013/Innovate.docx)
